@@ -3,7 +3,7 @@ import java.io.FileInputStream;
 import java.util.Arrays;
 
 
-class Solution
+class SeUn_8998
 {
     public static void main(String args[]) throws Exception
     {
